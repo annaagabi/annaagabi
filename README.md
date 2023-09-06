@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/annaagabi/annaagabi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaagabi)](https://github.com/annaagabi/annaagabi/README.md)
 <!--
 **annaagabi/annaagabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
