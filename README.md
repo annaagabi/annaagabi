@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+
+## 💼 Perfil Profissional
+
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando Bacharelado de Ciências da Computação na FMU e Técnico de Desenvolvimento de Sistemas no Senai Suiço-Brasileira "Paulo Ernesto Tolle"
+
+<!--  
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Programação
@@ -10,7 +17,7 @@
 
 ## 🚀 Habilidades
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+Aqui estão algumas das linguagens de programação e tecnologias que ja tive contato:
 
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css,nodejs)](https://skillicons.dev)
@@ -28,7 +35,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ![Gmail Badge](https://img.shields.io/badge/-{annaa0478@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{annaa0478@gmail.com})
 [![Linkedin: Anna](https://img.shields.io/badge/-annagabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-gabriela/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/anna-gabriela/))
 <br><br>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaagabi&layout=compact&theme=dark&hide_border=true)<br><br>
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=annaagabi&show_icons=true&theme=dark) <br><br>
