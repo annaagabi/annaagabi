@@ -30,7 +30,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 <br><br>
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=annaagabi&show_icons=true&theme=dark) <br><br>
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=annaagabi&show_icons=true)
 
 
 <!--
