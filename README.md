@@ -29,6 +29,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![Linkedin: Anna](https://img.shields.io/badge/-annagabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-gabriela/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/anna-gabriela/))
 <br><br>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaagabi&layout=compact&theme=dark&hide_border=true)<br><br>
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=annaagabi&show_icons=true&theme=dark) <br><br>
 
 
