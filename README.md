@@ -43,7 +43,11 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 ![iuricode](https://github-readme-stats.vercel.app/api?username=annaagabi&theme=synthwave)<br><br>
 
 ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=annaagabi&hide=html&layout=compact&theme=synthwave)<br><br>
+
+![iuricode](https://github-readme-stats.vercel.app/api?username=annaagabi&theme=dracula) <br><br>
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=annaagabi&hide=html&layout=compact&theme=dracula)<br><br>
 -->
+
 ### Número de visitantes no perfil
 ![Profile Counters](https://profile-counter.glitch.me/annaagabi/count.svg) <br><br>
 
