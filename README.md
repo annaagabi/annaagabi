@@ -26,7 +26,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-{annaa0478@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{annaa0478@gmail.com})
-[![Linkedin: Anna](https://img.shields.io/badge/-anna-gabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-gabriela/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/anna-gabriela/))
+[![Linkedin: Anna](https://img.shields.io/badge/-annagabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-gabriela/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/anna-gabriela/))
 <br><br>
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
