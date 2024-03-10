@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-## 💼 Perfil Profissional
+## 💼 Perfil
 
 - 💻 Estudante de Programação
-- 🌱 Apaixonado por Tecnologia
 - 🎓 Cursando Bacharelado de Ciências da Computação na FMU e Técnico de Desenvolvimento de Sistemas no Senai Suiço-Brasileira "Paulo Ernesto Tolle"
 
 <!--  
