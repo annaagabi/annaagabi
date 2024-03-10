@@ -13,7 +13,7 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css,nodejs)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
@@ -21,7 +21,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,netbeans)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman,docker)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
