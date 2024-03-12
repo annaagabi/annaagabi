@@ -41,7 +41,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-annaa0478@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{annaa0478@gmail.com})
+![Gmail Badge](https://img.shields.io/badge/-annaa0478@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{annaa0478@gmail.com})
 [![Linkedin: Anna](https://img.shields.io/badge/-annagabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-gabriela/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/anna-gabriela/))
 <br><br>
 
