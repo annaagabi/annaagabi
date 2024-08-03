@@ -28,7 +28,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
-
 ![Gmail Badge](https://img.shields.io/badge/-annaa0478@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{annaa0478@gmail.com})
 [![Linkedin: Anna](https://img.shields.io/badge/-annagabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-gabriela/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/anna-gabriela/))
 <br><br>
@@ -40,5 +39,3 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 
 ### Número de visitantes no perfil
 ![Profile Counters](https://profile-counter.glitch.me/annaagabi/count.svg) <br><br>
-
-
