@@ -9,8 +9,8 @@ https://roypriyanshu02.github.io/impressive-profile-readmes/
 ## 💼 Perfil
 
 - 💻 Estudante de Programação
-- 🎓 Cursando Bacharelado de Ciências da Computação na FMU 
-- 🎓 CursandoTécnico de Desenvolvimento de Sistemas no Senai Suiço-Brasileira "Paulo Ernesto Tolle"
+- 🎓 Cursando Bacharelado de Ciências da Computação na FMU
+- 🎓 Técnico de Desenvolvimento de Sistemas no Senai Suiço-Brasileira "Paulo Ernesto Tolle"
 
 ## 🚀 Habilidades
 
