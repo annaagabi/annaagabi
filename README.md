@@ -25,7 +25,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que ja tive co
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 ![Gmail Badge](https://img.shields.io/badge/-annaa0478@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{annaa0478@gmail.com})
