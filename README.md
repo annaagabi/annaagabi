@@ -17,7 +17,7 @@ https://roypriyanshu02.github.io/impressive-profile-readmes/
 Aqui estão algumas das linguagens de programação e tecnologias que ja tive contato:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css,nodejs,cs,ts)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,express)](https://skillicons.dev)
